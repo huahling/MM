@@ -14,5 +14,6 @@
 <body>
 <% AA aa=new AA();%>
 <%=aa.ff("运行成功！") %>
+fffff
 </body>
 </html>
