@@ -1,0 +1,6 @@
+# Project exclude paths
+/MM-controller/target/
+/MM-dao/target/
+/MM-entity/target/
+/MM-Servic/target/
+/MM-Web/target/
